@@ -12,4 +12,5 @@ Universidad del Comahue
 ## Integrantes del equipo
 
 - **Juan Perez** - legajo 1111 - mail:juacito@gmail.com - usuario github: juanperez
-- **Morena Garcia** - legajo 2222 - mail:morenita@fi.uncoma.edu.ar - usuario github:
+- **Morena Garcia** - legajo 2222 - mail:morenita@fi.uncoma.edu.ar - usuario github:moreg
+- **Majo** =)
